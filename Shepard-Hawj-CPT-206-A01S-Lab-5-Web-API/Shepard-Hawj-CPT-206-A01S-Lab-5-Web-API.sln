@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shepard-Hawj-CPT-206-A01S-Lab-5-Web-API", "Shepard-Hawj-CPT-206-A01S-Lab-5-Web-API.csproj", "{F1DFDDB7-8D69-4EF4-B241-994F020C98B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DFDDB7-8D69-4EF4-B241-994F020C98B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DFDDB7-8D69-4EF4-B241-994F020C98B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DFDDB7-8D69-4EF4-B241-994F020C98B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DFDDB7-8D69-4EF4-B241-994F020C98B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {696130AD-BDF0-4976-9BCD-AD1EB8A793CD}
+	EndGlobalSection
+EndGlobal

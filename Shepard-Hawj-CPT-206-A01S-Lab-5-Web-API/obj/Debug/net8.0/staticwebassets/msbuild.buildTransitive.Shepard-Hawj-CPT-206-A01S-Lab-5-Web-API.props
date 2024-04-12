@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Shepard-Hawj-CPT-206-A01S-Lab-5-Web-API.props" />
+</Project>
