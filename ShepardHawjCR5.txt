@@ -1,0 +1,11 @@
+-demonstrated good understanding and ability to work with IDE
+-Set up a working API with CRUD operations
+-Integrated additional features
+
+Areas for improvement
+-Security
+-Data validation
+-Error Handling
+
+Good foundation overall.
+9/10
